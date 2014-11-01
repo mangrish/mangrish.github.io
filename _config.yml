@@ -1,0 +1,16 @@
+# Site settings
+title: Mark Angrish
+email: mark.angrish@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The blog of Mark Angrish. Founder of https://www.innerloop.io.
+  Enjoys solving problems regarding people, politics or software.
+  Loves learning new things.
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: markangrish
+github_username:  mangrish
+highlighter: pygments
+github: [Repository metadata]
+
+# Build settings
+markdown: kramdown
