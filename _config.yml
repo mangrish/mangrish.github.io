@@ -2,9 +2,9 @@
 title: Mark Angrish
 email: mark.angrish@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The blog of Mark Angrish. Founder of https://www.innerloop.io.
-  Enjoys solving problems regarding people, politics or software.
-  Loves learning new things.
+  The thoughts, letters and articles of Mark Angrish. 
+  Enjoys solving problems regarding people, politics and software.
+  Loves learning new things. Founder of https://www.innerloop.io.
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: markangrish
