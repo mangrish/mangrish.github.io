@@ -24,13 +24,13 @@ Enjoy!
 
 Dear Minister Shorten,
 
-I am writing to you in regard to the metadata Retention legislation that is soon to be debated in the lower house.
+I am writing to you in regard to the metadata retention legislation that is soon to be debated in the lower house.
 
-I'm going to be frank; most Australians and most of our politicians don't really understand computers, networks or IT in general. Maybe it's a symptom of being the "lucky country". Most wouldn't know the difference between the Internet and the world wide web. Most don't care to understand the depth of the PRISM revelations and yet more are oblivious to the increasing impact technology will have on their lives today let alone in the next five plus years.
+I'm going to be frank; most Australians and most our politicians don't really understand computers, networks or IT in general. Maybe it's a symptom of being the "lucky country". Most wouldn't know the difference between the Internet and the World Wide Web. Most find it hard to understand the issues and magnitude of the PRISM revelations and yet more are oblivious to the increasing impact technology will have on their lives today let alone in the next five plus years.
 
-This proposed bill takes full advantage of our ignorance as a populous toward these issues and full advantage the Australian public enshrines in it's political system. To me it is incumbent on all politicians to understand to the best of their abilities the major issues in the legislation they are pushing through. However I hope this legislation of this much significance deserves more ardent scrutiny.
+This proposed bill takes full advantage of this ignorance the average Australian has toward these issues and trust we enshrines in our political system. To me it is incumbent on all politicians to understand to the best of their abilities the major issues in any legislation they are passing. However I think this legislation of this much significance deserves more ardent scrutiny.
 
-I find it abysmal that only Senator Scott Ludlum has been the only discernible voice of resistance on this topic. While the government constantly downplays and contrasts this bill to similar (not exact) laws in Europe, I should then expect gay marriage, high speed internet, better welfare etc. to be tabled with the same vigour. I also find it bizarre how little thought has been given to Australian business as most companies will likely move or start their data operations in countries without such Orwellian regulations which would obviously impact Australia economically.
+I find it abysmal that Senator Scott Ludlum has been the only discernible voice of resistance on this topic. While the government constantly downplays and contrasts this bill to similar (not exact) laws in Europe, I should then expect gay marriage, high speed internet, better welfare etc. to be tabled with the same vigour. I also find it bizarre how little thought has been given to Australian business as most companies will likely move or start their data operations in countries without such Orwellian regulations which would obviously impact Australia economically.
 
 What I am asking you as an all around nice guy who capable of way better zingers than KFC (did you like that one? You can keep that!) and leader of the opposition is to demand the following. I sincerely hope you resist siding with he government on this bill until:
 
