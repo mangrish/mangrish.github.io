@@ -32,13 +32,15 @@ This proposed bill takes full advantage of this ignorance the average Australian
 
 I find it abysmal that Senator Scott Ludlum has been the only discernible voice of resistance on this topic. While the government constantly downplays and contrasts this bill to similar yet not exact laws in Europe, one would only expect gay marriage, high speed internet, better welfare etc. to be tabled with the same vigour. I also find it bizarre that such little thought to the impact this has on  Australian business as most companies will likely move or start their data operations in countries without such Orwellian regulations. Just what we need, further removal of economic productivity.
 
-What I am asking you as an all around nice guy who capable of way better zingers than KFC (did you like that one? You can keep that!) and leader of the opposition is to demand the following. I sincerely hope you resist siding with he government on this bill until:
+What I am asking you as an all around nice guy who capable of way better zingers than KFC (did you like that one? You can keep that!) and leader of the opposition is to block the legislation or at the very least demand the following:
 
 - an explicit definition of “metadata" and “content” is included in the Data Retention legislation
 - the 2 year retention period is reexamined considering the very few requests that exceed 6 months.
 - it is confirmed that access to data be limited to serious crime
 - an oversight mechanism be established for the warrant approval process
 - it is confirmed that individuals be notified when their metadata is accessed, and that an avenue exist to challenge that access is provided.
+
+I sincerely hope you resist siding with he government on this bill until these items have been clarified.
 
 Australia’s law enforcement agencies are already filing 500,000 requests a year for warrantless access to metadata, and are more than capable of tackling serious crime with their existing powers. Why is this further invasion of privacy required?
 
